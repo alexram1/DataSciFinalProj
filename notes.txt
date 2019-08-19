@@ -1,0 +1,37 @@
+Key blocks of code I want to complete for this project:
+
+#Imports
+
+#load data in
+
+	#data related to happiness scores
+	
+	#data related to migration
+
+#visualize the data first
+
+	#maybe print out some lines of the datasets
+
+#Shape the datasets for graphing
+
+	#how will I deal with missing data?
+
+	#first, for happiness and migration rates now
+
+	#second, for change in happiness and change in migraiton rates
+
+	#third, difference in local vs foreign born happiness levels and migration rates
+
+	#fourth, is migration related to any factor used to calculate happiness strongly?
+
+	#fifth, use urban-rural population data and relate that to happiness scores
+
+#preprocessing for the graphs
+
+	#Normalizing and dealing with outliers
+	
+#Create some histograms to visualize migration rates and happiness of regions
+
+#Produce the graphs for all the data above
+
+	#Correlation between happiness and migration

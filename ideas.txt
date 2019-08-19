@@ -1,0 +1,65 @@
+#What topics do I want to make graphs about:
+
+	#International migration - What are world wide trends between Migration and Happiness
+	
+		#Migration Rates VS Happiness Scores
+
+		#Change in Migration Rates VS Change in Happiness Scores (2007 - 2018)
+
+		#Migration Rates VS Foreign and Local Born Happiness
+
+		#Migration Rates VS Life Ladder Reports
+
+		#Migration Rates VS GDP
+
+		#Migration Rates VS Life Expectancy
+
+		#Migration Rates VS Social Support
+
+		#Migration Rates VS Freedom
+
+		#Migration Rates VS Generosity
+
+		#Migration Rates VS Corruption
+
+		#Rural to Urban Migration Rates VS Happiness Scores
+		
+	#Regional Migration - How does migration and happiness look regionally compared to the world?
+	
+		#South Asia
+		
+		#Central and Eastern Europe
+		
+		#Middle East and North Africa
+		
+		#Sub-Saharan Africa
+		
+		#Latin America and Caribbean
+		
+		#Commonwealth of Independent States
+		
+		#North America and ANZ
+		
+		#Western Europe
+		
+		#'Southeast Asia
+		
+		#East Asia
+		
+		
+	#Rural to Urban Migration - another unique for of migration, how is it related to happiness?
+	
+		#How does this compare to happiness scores of countries?
+
+#How will I deal with missing data
+
+	#Either find migration data for missing countries/missing values for existing countries in the dataset. 
+	
+	#Sometimes match the names of countries. This will be done by altering the .csv files.
+	
+	#There is the case where migration = 0, which will be rare
+
+
+
+
+
